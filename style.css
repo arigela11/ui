@@ -1,0 +1,253 @@
+.food-munch-logo {
+  width: 80px;
+  height: 70px;
+}
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+#navItem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+}
+.custom-button1 {
+  width: 200px;
+  height: 45px;
+  color: white;
+  border-color: blue;
+  border-width: 0;
+  border-radius: 8px;
+
+}
+.custom-button2 {
+  width: 200px;
+  height: 45px;
+  color:blue;
+  border-color: blue;
+  border-width: 2px;
+  border-radius: 8px;
+  
+  
+}
+.custom-button3 {
+  width: 200px;
+  height: 45px;
+  color:blue;
+  border-color: blue;
+  
+  border-width: 2px;
+  border-radius: 8px;
+  
+  
+}
+
+.wcu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.wcu-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.card1 {
+  text-align: center;
+  background-color: white;
+  margin-top: 10px;
+
+}
+.card-image {
+  width: 20px;
+  height: 20px;
+}
+.title1 {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.parag{
+  color:#d0b200;
+}
+
+.wcu-card-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.wcu-card{
+  text-align: center;
+}
+.offers {
+  color: #323f4b;
+  font-style: italic;
+  font-weight: 600;
+}
+.explore-menu-section {
+  background-color: white;
+}
+.menu-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.menu-item-image {
+  border-radius: 16px;
+}
+.card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 200;
+  margin-top: 24px;
+}
+.menu-item-link {
+  color: #d0b200;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+.menu-item-card {
+  border-radius: 16px;
+}
+.healthy-food-section {
+  background-color: #f9fbfe;
+}
+.healthy-food-section-img {
+  width: 270px;
+}
+.healthy-food-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.healthy-food-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.delivery-and-payment-section {
+  background-color: white;
+}
+.delivery-and-payment-section-img {
+  width: 270px;
+}
+.section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+  padding-top:200px;
+}
+.desci{
+  padding-top:200px;
+}
+.payment-card-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
+.highe{
+  font-weight:bold;
+  font-size: 30px;
+  color:blue ! important;
+}
+.tim{
+  color:rgb(218, 209, 209)
+}
+.higherest{
+  font-weight:bold;
+  font-size: 30px;
+}
+.mainbox{
+  padding-left: 500px;
+  padding-left: 500px;
+
+}
+.whitebox{
+  border-color: blue;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  color:blue;
+}
+.bluebox{
+  border-color: blue;
+  background-color:blue;
+  border-width:10px;
+  color:white;
+  border-style:solid;
+  border-radius: 10px;
+}
+.read{
+  border-width: 0;
+  border-radius: 10px;
+   width:130%;
+  padding: 20px;
+  border-left: blue;
+  border-left-width: 10px;
+  border-left-style: solid;
+}
+.hi{
+  margin-top:10px;
+  margin-bottom: 10px;
+}
+.imag{
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  padding:20px;
+  margin-right:1000px;
+  margin-top: 20px;
+  width:78px;
+  height:78px;
+}
+.imagine{
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  padding:17px;
+  margin-right:1000px;
+  margin-top: 20px;
+  width:78px;
+  height:78px;
+}
+.paragi{
+  padding-top:14px;
+  padding-bottom: 0;
+  width:130%;
+
+}
+.imagi{
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  padding:20px;
+  margin-right:1000px;
+  margin-top: 20px;
+  width:78px;
+  height:78px;
+  
+}
+.hiik{
+  background-color: blue;
+  margin-top:20px;
+
+}
